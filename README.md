@@ -1,0 +1,2 @@
+# innovation_competition
+基于图神经网络与强化学习的 5G 基站处理器能耗优化算法设计大创项目
